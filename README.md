@@ -1,2 +1,2 @@
-# EDA-LAB-04
-Listas Enlazadas
+# EDA-LAB-05  
+Pilas y Colas
